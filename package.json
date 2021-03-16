@@ -87,7 +87,7 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.22.2",
     "node-dir": "^0.1.12",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "react": "^16.4.2",
     "react-dnd-test-backend": "^2.6.0",
     "react-docgen": "^2.21.0",
